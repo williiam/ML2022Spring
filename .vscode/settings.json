@@ -1,9 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\Users\\PC-W\\anaconda3\\envs\\test2\\python.exe",
-    "python.terminal.activateEnvironment": true,
-    "python.linting.pylintEnabled": true,
-    "python.condaPath": "C:\\Users\\PC-W\\anaconda3\\Scripts\\conda.exe",
-    "#terminal.integrated.profiles.windows#": "C:\\Users\\PC-W\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe",
-    "terminal.integrated.cmd": ["/K","C:\\Users\\PC-W\\anaconda3\\Scripts\\activate test2"],
-    "terminal.integrated.executeInFileDir": true
-}
